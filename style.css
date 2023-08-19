@@ -1,0 +1,43 @@
+.mainDiv{
+         width: 70%;
+         height: 100px;
+         border: 5px solid black; 
+         /* by default display:fle is on row */
+         display: flex; 
+         flex-direction: column;
+         /* flex:wrap ham use krtay hay jab values main containerse overflow krjay */
+         flex-wrap: wrap;
+
+}
+
+.one{
+    background-color: blue;
+}
+
+.two{
+    background-color: brown;
+}
+
+.three{
+    background-color: green;
+}
+
+.four{
+    background-color: orange;
+}
+
+.five{
+    background-color: red;
+}
+
+.six{
+    background-color: darkmagenta;
+}
+
+.seven{
+    background-color: yellow;
+}
+
+.eight{
+    background-color: powderblue;
+}
